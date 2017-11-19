@@ -1,0 +1,41 @@
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+.bottom_line {
+	border-style: solid;
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+	border-bottom-width: : 5px;
+	margin-bottom: 30px;
+	border-color: #7d97ad;
+}
+
+.style_thin {
+	font-weight: 100;
+}
+
+.central_display {
+	margin-left: auto; margin-right: auto;
+	width: 100%;
+}
+
+.muted_color {
+	color: #7d97ad;
+	margin-left: 3%;
+}
+
+.img1 {
+	width: 100%;
+}
